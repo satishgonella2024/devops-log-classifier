@@ -1,0 +1,27 @@
+# Virtual environments
+venv/
+__pycache__/
+
+# Python cache and temporary files
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.db
+*.sqlite3
+*.log
+
+# Ignore environment variables
+.env
+
+# Logs
+*.log
+
+# Mac-specific files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore results
+results/
