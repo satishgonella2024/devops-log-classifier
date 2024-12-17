@@ -1,0 +1,1001 @@
+timestamp,log_text,log_level
+2024-12-11 13:05:23.367138,Deployment deployment-4 scaled to monitoring replicas.,INFO
+2024-12-15 04:24:10.367149,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 10:52:34.367154,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-12 02:04:04.367157,Deployment deployment-7 scaled to default replicas.,INFO
+2024-12-10 22:35:48.367160,Deployment deployment-2 failed to roll out successfully.,ERROR
+2024-12-12 18:16:53.367163,Deployment deployment-4 scaled to production replicas.,INFO
+2024-12-11 09:06:42.367166,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 02:26:58.367169,Deployment deployment-9 failed to roll out successfully.,ERROR
+2024-12-17 05:09:35.367172,Replica count for deployment deployment-4 dropped below threshold.,WARNING
+2024-12-10 18:58:53.367175,Pod redis-pod started successfully in namespace default.,INFO
+2024-12-14 18:17:20.367179,DiskPressure condition detected on node node-2.,WARNING
+2024-12-14 06:30:22.367181,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 15:50:41.367184,Deployment deployment-7 scaled to production replicas.,INFO
+2024-12-11 23:47:17.367187,Deployment deployment-6 scaled to production replicas.,INFO
+2024-12-13 14:59:46.367190,Slow response time observed for pod db-pod.,WARNING
+2024-12-11 10:36:47.367193,Failed to mount volume for pod api-server.,ERROR
+2024-12-14 00:02:07.367196,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-13 17:23:12.367199,Deployment deployment-3 failed to roll out successfully.,ERROR
+2024-12-10 21:59:21.367202,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 08:29:53.367204,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 08:53:24.367207,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-13 04:56:55.367210,Node node-1 is ready for scheduling.,INFO
+2024-12-11 20:15:29.367213,Replica count for deployment deployment-9 dropped below threshold.,WARNING
+2024-12-16 07:32:00.367215,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 23:32:26.367218,Deployment deployment-10 failed to roll out successfully.,ERROR
+2024-12-15 03:19:58.367221,DiskPressure condition detected on node node-3.,WARNING
+2024-12-14 13:32:54.367224,Failed to mount volume for pod api-server.,ERROR
+2024-12-17 10:35:54.367227,High memory usage detected in pod nginx-pod.,WARNING
+2024-12-16 19:56:15.367230,Node node-2 is NotReady for scheduling pods.,ERROR
+2024-12-11 00:11:27.367233,Deployment deployment-3 scaled to monitoring replicas.,INFO
+2024-12-14 16:06:54.367235,Slow response time observed for pod db-pod.,WARNING
+2024-12-10 23:49:17.367238,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-12 02:29:32.367240,High memory usage detected in pod api-server.,WARNING
+2024-12-12 18:17:28.367243,Node node-3 is ready for scheduling.,INFO
+2024-12-14 05:05:54.367246,Replica count for deployment deployment-2 dropped below threshold.,WARNING
+2024-12-16 04:42:53.367249,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 10:30:29.367251,High memory usage detected in pod redis-pod.,WARNING
+2024-12-12 04:56:06.367254,High memory usage detected in pod db-pod.,WARNING
+2024-12-15 12:03:06.367257,High memory usage detected in pod redis-pod.,WARNING
+2024-12-11 13:23:48.367259,Slow response time observed for pod db-pod.,WARNING
+2024-12-17 00:26:56.367262,High memory usage detected in pod db-pod.,WARNING
+2024-12-15 14:04:57.367265,Pod frontend-pod started successfully in namespace default.,INFO
+2024-12-11 09:38:58.367268,Replica count for deployment deployment-3 dropped below threshold.,WARNING
+2024-12-11 21:07:07.367271,Node node-5 is ready for scheduling.,INFO
+2024-12-17 14:11:04.367273,Node node-3 is ready for scheduling.,INFO
+2024-12-16 12:39:22.367276,DiskPressure condition detected on node node-1.,WARNING
+2024-12-14 06:05:55.367279,DiskPressure condition detected on node node-1.,WARNING
+2024-12-17 00:20:32.367282,DiskPressure condition detected on node node-2.,WARNING
+2024-12-13 11:25:54.367285,DiskPressure condition detected on node node-4.,WARNING
+2024-12-10 19:20:00.367288,DiskPressure condition detected on node node-3.,WARNING
+2024-12-10 21:42:57.367290,Failed to mount volume for pod db-pod.,ERROR
+2024-12-16 22:14:51.367293,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 05:48:13.367296,High memory usage detected in pod api-server.,WARNING
+2024-12-17 13:19:30.367298,Failed to mount volume for pod db-pod.,ERROR
+2024-12-11 06:14:00.367300,Backup job completed successfully.,INFO
+2024-12-17 03:16:22.367303,Node node-3 is ready for scheduling.,INFO
+2024-12-15 15:17:42.367306,Slow response time observed for pod frontend-pod.,WARNING
+2024-12-16 15:46:22.367309,Deployment deployment-9 scaled to kube-system replicas.,INFO
+2024-12-14 21:11:25.367312,Node node-3 is ready for scheduling.,INFO
+2024-12-12 06:08:43.367315,Deployment deployment-6 scaled to kube-system replicas.,INFO
+2024-12-12 01:35:50.367317,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 19:14:04.367320,Deployment deployment-1 scaled to production replicas.,INFO
+2024-12-12 10:56:43.367323,Deployment deployment-3 failed to roll out successfully.,ERROR
+2024-12-11 15:28:16.367325,Failed to mount volume for pod api-server.,ERROR
+2024-12-16 01:33:40.367328,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 18:47:28.367331,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-14 11:35:44.367334,Pod frontend-pod started successfully in namespace production.,INFO
+2024-12-14 11:55:34.367336,Backup job completed successfully.,INFO
+2024-12-15 14:37:51.367338,Failed to mount volume for pod api-server.,ERROR
+2024-12-12 09:02:53.367341,Deployment deployment-4 scaled to default replicas.,INFO
+2024-12-11 16:38:49.367344,Deployment deployment-4 scaled to production replicas.,INFO
+2024-12-10 23:21:37.367347,DiskPressure condition detected on node node-4.,WARNING
+2024-12-17 01:22:38.367350,Failed to mount volume for pod api-server.,ERROR
+2024-12-17 08:08:57.367353,Replica count for deployment deployment-8 dropped below threshold.,WARNING
+2024-12-12 07:27:58.367355,Node node-3 is ready for scheduling.,INFO
+2024-12-12 14:13:47.367358,Node node-4 is ready for scheduling.,INFO
+2024-12-17 06:12:22.367361,Replica count for deployment deployment-5 dropped below threshold.,WARNING
+2024-12-12 13:04:00.367364,Deployment deployment-9 scaled to default replicas.,INFO
+2024-12-13 05:56:42.367367,Node node-1 is ready for scheduling.,INFO
+2024-12-11 10:30:46.367370,Node node-3 is ready for scheduling.,INFO
+2024-12-15 03:29:55.367373,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-10 18:27:55.367376,Deployment deployment-5 failed to roll out successfully.,ERROR
+2024-12-11 19:12:15.367379,Node node-2 is NotReady for scheduling pods.,ERROR
+2024-12-15 00:12:13.367382,DiskPressure condition detected on node node-2.,WARNING
+2024-12-14 18:46:19.367385,DiskPressure condition detected on node node-5.,WARNING
+2024-12-16 15:14:32.367388,Deployment deployment-10 failed to roll out successfully.,ERROR
+2024-12-10 16:55:35.367390,Deployment deployment-3 scaled to production replicas.,INFO
+2024-12-10 18:53:57.367393,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-11 10:44:46.367396,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-13 14:45:20.367398,Deployment deployment-6 failed to roll out successfully.,ERROR
+2024-12-17 00:16:45.367401,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-12 19:50:47.367404,Deployment deployment-5 scaled to kube-system replicas.,INFO
+2024-12-16 14:00:07.367407,High memory usage detected in pod db-pod.,WARNING
+2024-12-13 17:11:18.367410,Deployment deployment-7 failed to roll out successfully.,ERROR
+2024-12-13 22:36:08.367413,DiskPressure condition detected on node node-3.,WARNING
+2024-12-16 15:25:39.367416,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 13:27:47.367418,Deployment deployment-3 failed to roll out successfully.,ERROR
+2024-12-17 11:43:26.367421,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-17 06:57:32.367424,DiskPressure condition detected on node node-4.,WARNING
+2024-12-14 16:11:17.367427,Slow response time observed for pod api-server.,WARNING
+2024-12-15 15:54:32.367429,Deployment deployment-9 scaled to monitoring replicas.,INFO
+2024-12-14 20:19:39.367432,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-16 03:02:09.367435,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-11 04:36:33.367438,Deployment deployment-10 scaled to default replicas.,INFO
+2024-12-14 23:21:55.367440,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-12 06:30:33.367443,DiskPressure condition detected on node node-5.,WARNING
+2024-12-17 14:25:01.367446,Backup job completed successfully.,INFO
+2024-12-14 09:32:53.367448,DiskPressure condition detected on node node-5.,WARNING
+2024-12-10 23:39:55.367451,Deployment deployment-4 failed to roll out successfully.,ERROR
+2024-12-15 23:47:02.367454,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-16 18:48:17.367457,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-11 16:21:22.367460,High memory usage detected in pod db-pod.,WARNING
+2024-12-13 00:39:56.367462,High memory usage detected in pod redis-pod.,WARNING
+2024-12-16 07:20:38.367465,High memory usage detected in pod db-pod.,WARNING
+2024-12-13 19:26:03.367467,Failed to mount volume for pod frontend-pod.,ERROR
+2024-12-13 22:36:40.367470,Deployment deployment-6 scaled to monitoring replicas.,INFO
+2024-12-12 21:48:02.367472,High memory usage detected in pod nginx-pod.,WARNING
+2024-12-11 02:18:54.367475,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-16 22:02:26.367477,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-15 02:51:26.367480,High memory usage detected in pod db-pod.,WARNING
+2024-12-14 18:11:04.367483,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-16 18:21:05.367485,Slow response time observed for pod frontend-pod.,WARNING
+2024-12-12 20:27:14.367488,High memory usage detected in pod nginx-pod.,WARNING
+2024-12-16 21:23:42.367491,High memory usage detected in pod redis-pod.,WARNING
+2024-12-17 06:53:36.367493,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-13 15:25:38.367496,Replica count for deployment deployment-4 dropped below threshold.,WARNING
+2024-12-14 00:14:25.367499,Replica count for deployment deployment-4 dropped below threshold.,WARNING
+2024-12-16 02:04:55.367502,Deployment deployment-9 failed to roll out successfully.,ERROR
+2024-12-14 22:59:21.367506,High memory usage detected in pod redis-pod.,WARNING
+2024-12-15 12:03:03.367509,Slow response time observed for pod api-server.,WARNING
+2024-12-14 06:25:44.367511,DiskPressure condition detected on node node-2.,WARNING
+2024-12-14 02:19:53.367514,Pod redis-pod started successfully in namespace monitoring.,INFO
+2024-12-17 00:19:18.367517,Replica count for deployment deployment-2 dropped below threshold.,WARNING
+2024-12-12 02:42:01.367520,Deployment deployment-3 failed to roll out successfully.,ERROR
+2024-12-16 16:10:11.367523,Node node-1 is ready for scheduling.,INFO
+2024-12-16 13:35:40.367525,DiskPressure condition detected on node node-1.,WARNING
+2024-12-11 08:51:16.367528,Replica count for deployment deployment-4 dropped below threshold.,WARNING
+2024-12-17 01:56:17.367531,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-16 14:00:34.367534,Deployment deployment-6 failed to roll out successfully.,ERROR
+2024-12-15 19:37:59.367536,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-17 07:37:01.367539,Failed to mount volume for pod db-pod.,ERROR
+2024-12-14 01:37:39.367542,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-15 14:14:40.367545,Deployment deployment-7 failed to roll out successfully.,ERROR
+2024-12-11 11:17:50.367548,Deployment deployment-3 failed to roll out successfully.,ERROR
+2024-12-15 15:38:10.367551,Replica count for deployment deployment-2 dropped below threshold.,WARNING
+2024-12-14 13:23:54.367553,Slow response time observed for pod redis-pod.,WARNING
+2024-12-11 05:44:38.367556,Node node-4 is ready for scheduling.,INFO
+2024-12-12 23:35:59.367559,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 04:29:21.367561,Slow response time observed for pod api-server.,WARNING
+2024-12-15 01:24:32.367564,Pod api-server started successfully in namespace monitoring.,INFO
+2024-12-14 19:06:48.367566,Slow response time observed for pod api-server.,WARNING
+2024-12-10 16:37:46.367569,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-13 22:43:06.367571,Slow response time observed for pod db-pod.,WARNING
+2024-12-12 13:24:15.367574,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-14 01:37:24.367577,Node node-5 is ready for scheduling.,INFO
+2024-12-17 16:02:24.367579,Backup job completed successfully.,INFO
+2024-12-10 17:02:46.367582,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-14 23:12:38.367585,DiskPressure condition detected on node node-1.,WARNING
+2024-12-14 22:26:33.367588,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 05:06:20.367591,Deployment deployment-7 failed to roll out successfully.,ERROR
+2024-12-13 13:17:23.367594,Deployment deployment-2 failed to roll out successfully.,ERROR
+2024-12-12 15:15:19.367596,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 23:17:14.367599,Failed to mount volume for pod db-pod.,ERROR
+2024-12-15 00:40:24.367601,Node node-1 is ready for scheduling.,INFO
+2024-12-16 02:23:01.367604,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-15 14:27:32.367607,Replica count for deployment deployment-2 dropped below threshold.,WARNING
+2024-12-16 18:49:09.367609,High memory usage detected in pod db-pod.,WARNING
+2024-12-13 21:22:26.367611,Backup job completed successfully.,INFO
+2024-12-11 06:56:36.367614,Node node-4 is ready for scheduling.,INFO
+2024-12-17 15:57:10.367617,DiskPressure condition detected on node node-4.,WARNING
+2024-12-17 09:43:05.367620,DiskPressure condition detected on node node-4.,WARNING
+2024-12-13 02:40:35.367622,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-10 23:28:04.367625,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 04:48:55.367628,Pod frontend-pod started successfully in namespace kube-system.,INFO
+2024-12-15 14:41:42.367630,Node node-2 is ready for scheduling.,INFO
+2024-12-11 03:03:46.367633,Slow response time observed for pod redis-pod.,WARNING
+2024-12-12 15:18:49.367635,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-10 17:37:27.367638,Pod api-server started successfully in namespace default.,INFO
+2024-12-16 20:43:48.367641,DiskPressure condition detected on node node-4.,WARNING
+2024-12-14 13:13:44.367644,DiskPressure condition detected on node node-3.,WARNING
+2024-12-12 04:39:30.367646,Pod redis-pod started successfully in namespace monitoring.,INFO
+2024-12-15 20:23:11.367649,DiskPressure condition detected on node node-5.,WARNING
+2024-12-14 00:01:09.367652,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 13:37:39.367654,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-16 23:14:48.367657,Deployment deployment-6 failed to roll out successfully.,ERROR
+2024-12-17 15:47:55.367660,Slow response time observed for pod nginx-pod.,WARNING
+2024-12-16 17:15:31.367663,Slow response time observed for pod redis-pod.,WARNING
+2024-12-15 15:56:27.367665,Replica count for deployment deployment-1 dropped below threshold.,WARNING
+2024-12-17 09:14:06.367668,Replica count for deployment deployment-3 dropped below threshold.,WARNING
+2024-12-14 22:48:33.367671,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-12 03:16:06.367674,Deployment deployment-4 scaled to default replicas.,INFO
+2024-12-16 08:30:10.367676,High memory usage detected in pod db-pod.,WARNING
+2024-12-16 08:56:15.367679,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-15 23:41:59.367682,Node node-5 is ready for scheduling.,INFO
+2024-12-16 00:23:11.367685,Pod redis-pod started successfully in namespace production.,INFO
+2024-12-11 00:07:39.367688,DiskPressure condition detected on node node-5.,WARNING
+2024-12-13 02:27:07.367690,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-15 00:17:02.367693,Deployment deployment-2 failed to roll out successfully.,ERROR
+2024-12-17 11:04:40.367696,DiskPressure condition detected on node node-4.,WARNING
+2024-12-12 23:14:04.367699,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 13:24:03.367701,DiskPressure condition detected on node node-1.,WARNING
+2024-12-13 18:56:29.367704,Deployment deployment-9 failed to roll out successfully.,ERROR
+2024-12-14 13:06:28.367707,Deployment deployment-5 failed to roll out successfully.,ERROR
+2024-12-13 02:53:27.367710,Node node-1 is ready for scheduling.,INFO
+2024-12-17 08:20:12.367712,Backup job completed successfully.,INFO
+2024-12-12 18:19:09.367715,Node node-3 is ready for scheduling.,INFO
+2024-12-16 23:35:58.367717,Pod db-pod started successfully in namespace monitoring.,INFO
+2024-12-16 15:57:29.367721,Deployment deployment-8 failed to roll out successfully.,ERROR
+2024-12-14 22:08:11.367724,Slow response time observed for pod api-server.,WARNING
+2024-12-12 03:57:17.367727,Replica count for deployment deployment-2 dropped below threshold.,WARNING
+2024-12-13 00:06:35.367730,High memory usage detected in pod api-server.,WARNING
+2024-12-12 05:50:55.367732,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-15 04:45:11.367735,Pod nginx-pod started successfully in namespace kube-system.,INFO
+2024-12-14 16:30:30.367738,High memory usage detected in pod db-pod.,WARNING
+2024-12-12 01:55:28.367741,DiskPressure condition detected on node node-5.,WARNING
+2024-12-17 02:23:40.367744,Deployment deployment-9 scaled to kube-system replicas.,INFO
+2024-12-15 22:46:43.367747,Deployment deployment-2 failed to roll out successfully.,ERROR
+2024-12-14 13:04:00.367749,DiskPressure condition detected on node node-1.,WARNING
+2024-12-11 23:33:40.367752,Deployment deployment-2 failed to roll out successfully.,ERROR
+2024-12-15 12:46:15.367755,Node node-4 is ready for scheduling.,INFO
+2024-12-14 07:24:27.367757,Backup job completed successfully.,INFO
+2024-12-16 05:38:40.367760,DiskPressure condition detected on node node-4.,WARNING
+2024-12-15 08:49:37.367762,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-13 18:20:17.367765,Deployment deployment-1 failed to roll out successfully.,ERROR
+2024-12-14 07:54:09.367768,Deployment deployment-10 failed to roll out successfully.,ERROR
+2024-12-12 06:20:22.367770,Slow response time observed for pod redis-pod.,WARNING
+2024-12-14 22:10:17.367773,Deployment deployment-8 failed to roll out successfully.,ERROR
+2024-12-15 02:30:26.367776,Deployment deployment-7 failed to roll out successfully.,ERROR
+2024-12-16 15:25:50.367778,Deployment deployment-2 scaled to kube-system replicas.,INFO
+2024-12-10 21:15:18.367781,Pod api-server started successfully in namespace production.,INFO
+2024-12-11 03:28:27.367784,Pod api-server started successfully in namespace production.,INFO
+2024-12-15 07:46:44.367786,Deployment deployment-6 scaled to kube-system replicas.,INFO
+2024-12-15 08:35:10.367789,DiskPressure condition detected on node node-1.,WARNING
+2024-12-13 09:51:58.367792,DiskPressure condition detected on node node-3.,WARNING
+2024-12-10 23:36:21.367795,Replica count for deployment deployment-9 dropped below threshold.,WARNING
+2024-12-15 13:36:24.367797,Pod api-server started successfully in namespace production.,INFO
+2024-12-12 21:11:52.367800,Node node-5 is ready for scheduling.,INFO
+2024-12-17 07:50:38.367802,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-10 23:06:27.367805,DiskPressure condition detected on node node-3.,WARNING
+2024-12-12 20:18:39.367808,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-11 17:57:51.367810,Backup job completed successfully.,INFO
+2024-12-17 01:58:39.367813,Pod redis-pod started successfully in namespace production.,INFO
+2024-12-13 12:59:52.367815,Slow response time observed for pod db-pod.,WARNING
+2024-12-13 18:50:40.367818,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-11 11:58:47.367822,Failed to mount volume for pod db-pod.,ERROR
+2024-12-12 23:40:56.367825,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-13 18:36:24.367827,Pod redis-pod started successfully in namespace production.,INFO
+2024-12-15 03:04:17.367830,High memory usage detected in pod redis-pod.,WARNING
+2024-12-15 21:21:40.367832,Slow response time observed for pod redis-pod.,WARNING
+2024-12-16 13:38:52.367834,Backup job completed successfully.,INFO
+2024-12-12 09:07:14.367836,Backup job completed successfully.,INFO
+2024-12-14 19:08:30.367839,Deployment deployment-3 failed to roll out successfully.,ERROR
+2024-12-14 13:59:45.367842,Slow response time observed for pod db-pod.,WARNING
+2024-12-14 14:46:17.367844,Replica count for deployment deployment-8 dropped below threshold.,WARNING
+2024-12-16 18:46:10.367847,Replica count for deployment deployment-9 dropped below threshold.,WARNING
+2024-12-14 23:51:58.367850,DiskPressure condition detected on node node-1.,WARNING
+2024-12-11 01:30:39.367853,Deployment deployment-4 scaled to default replicas.,INFO
+2024-12-14 07:01:20.367856,Replica count for deployment deployment-2 dropped below threshold.,WARNING
+2024-12-11 07:12:35.367858,Failed to mount volume for pod db-pod.,ERROR
+2024-12-16 10:52:43.367861,Slow response time observed for pod nginx-pod.,WARNING
+2024-12-17 04:08:57.367864,Node node-1 is ready for scheduling.,INFO
+2024-12-13 08:03:04.367867,DiskPressure condition detected on node node-4.,WARNING
+2024-12-13 23:24:20.367869,Replica count for deployment deployment-7 dropped below threshold.,WARNING
+2024-12-14 00:53:53.367872,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 02:32:03.367875,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-16 21:39:12.367877,Backup job completed successfully.,INFO
+2024-12-14 17:43:24.367879,Node node-2 is NotReady for scheduling pods.,ERROR
+2024-12-14 21:13:57.367882,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-15 23:33:06.367885,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-10 21:42:23.367887,Backup job completed successfully.,INFO
+2024-12-14 13:40:45.367889,Slow response time observed for pod redis-pod.,WARNING
+2024-12-16 01:48:58.367892,Deployment deployment-10 failed to roll out successfully.,ERROR
+2024-12-17 03:52:20.367895,Node node-5 is ready for scheduling.,INFO
+2024-12-17 07:22:00.367898,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-13 18:24:35.367900,Node node-2 is ready for scheduling.,INFO
+2024-12-10 20:57:57.367903,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-12 05:10:25.367905,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-15 22:35:05.367908,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-17 00:04:04.367911,Deployment deployment-5 scaled to monitoring replicas.,INFO
+2024-12-15 10:53:02.367913,Pod nginx-pod started successfully in namespace kube-system.,INFO
+2024-12-12 02:24:15.367916,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-17 11:46:17.367919,Node node-2 is ready for scheduling.,INFO
+2024-12-16 22:59:52.367921,Pod db-pod started successfully in namespace production.,INFO
+2024-12-11 10:54:09.367924,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-16 19:10:40.367927,DiskPressure condition detected on node node-2.,WARNING
+2024-12-11 07:21:23.367930,Slow response time observed for pod nginx-pod.,WARNING
+2024-12-11 12:21:34.367932,Deployment deployment-2 failed to roll out successfully.,ERROR
+2024-12-17 09:24:01.367935,DiskPressure condition detected on node node-3.,WARNING
+2024-12-12 05:22:56.367938,DiskPressure condition detected on node node-1.,WARNING
+2024-12-14 06:52:08.367942,Deployment deployment-3 scaled to production replicas.,INFO
+2024-12-11 10:49:34.367945,Replica count for deployment deployment-9 dropped below threshold.,WARNING
+2024-12-12 11:58:40.367948,High memory usage detected in pod nginx-pod.,WARNING
+2024-12-15 12:21:12.367951,DiskPressure condition detected on node node-5.,WARNING
+2024-12-16 06:00:23.367954,High memory usage detected in pod db-pod.,WARNING
+2024-12-13 07:08:27.367956,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-11 07:29:49.367959,Deployment deployment-7 failed to roll out successfully.,ERROR
+2024-12-12 07:18:29.367962,High memory usage detected in pod nginx-pod.,WARNING
+2024-12-11 05:19:14.367964,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-11 00:58:18.367967,Slow response time observed for pod frontend-pod.,WARNING
+2024-12-13 00:08:42.367970,Deployment deployment-9 scaled to production replicas.,INFO
+2024-12-11 00:08:32.367973,Replica count for deployment deployment-4 dropped below threshold.,WARNING
+2024-12-13 23:11:03.367975,Pod nginx-pod started successfully in namespace default.,INFO
+2024-12-16 04:59:54.367978,High memory usage detected in pod db-pod.,WARNING
+2024-12-11 11:44:19.367981,DiskPressure condition detected on node node-5.,WARNING
+2024-12-15 04:42:47.367984,Slow response time observed for pod db-pod.,WARNING
+2024-12-11 17:41:23.367986,Node node-3 is ready for scheduling.,INFO
+2024-12-12 06:33:16.367989,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 19:20:59.367992,Failed to mount volume for pod frontend-pod.,ERROR
+2024-12-16 01:47:46.367994,Slow response time observed for pod frontend-pod.,WARNING
+2024-12-11 14:04:18.367997,High memory usage detected in pod redis-pod.,WARNING
+2024-12-11 07:27:35.368000,Deployment deployment-3 scaled to default replicas.,INFO
+2024-12-14 22:39:38.368002,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-13 10:41:25.368005,Replica count for deployment deployment-5 dropped below threshold.,WARNING
+2024-12-15 22:34:10.368008,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-16 03:17:44.368011,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-14 14:18:15.368013,Slow response time observed for pod redis-pod.,WARNING
+2024-12-11 20:47:44.368015,Backup job completed successfully.,INFO
+2024-12-11 15:03:55.368018,DiskPressure condition detected on node node-2.,WARNING
+2024-12-14 13:57:34.368021,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-10 19:12:17.368024,Node node-2 is ready for scheduling.,INFO
+2024-12-13 22:45:07.368026,Replica count for deployment deployment-5 dropped below threshold.,WARNING
+2024-12-13 16:21:59.368029,Deployment deployment-5 failed to roll out successfully.,ERROR
+2024-12-14 02:39:46.368032,Deployment deployment-4 failed to roll out successfully.,ERROR
+2024-12-16 16:54:39.368035,Deployment deployment-3 scaled to monitoring replicas.,INFO
+2024-12-16 08:17:10.368038,DiskPressure condition detected on node node-5.,WARNING
+2024-12-16 22:52:10.368040,Slow response time observed for pod redis-pod.,WARNING
+2024-12-14 01:36:45.368043,Failed to mount volume for pod api-server.,ERROR
+2024-12-13 11:58:13.368046,Deployment deployment-7 scaled to monitoring replicas.,INFO
+2024-12-13 16:45:45.368050,Slow response time observed for pod db-pod.,WARNING
+2024-12-15 19:40:33.368054,Deployment deployment-6 scaled to production replicas.,INFO
+2024-12-14 22:23:26.368057,Deployment deployment-2 scaled to default replicas.,INFO
+2024-12-11 20:02:37.368061,Failed to mount volume for pod db-pod.,ERROR
+2024-12-17 02:18:59.368064,Pod frontend-pod started successfully in namespace kube-system.,INFO
+2024-12-11 02:30:55.368069,Replica count for deployment deployment-2 dropped below threshold.,WARNING
+2024-12-17 04:11:26.368071,Backup job completed successfully.,INFO
+2024-12-16 17:23:46.368074,Replica count for deployment deployment-10 dropped below threshold.,WARNING
+2024-12-12 10:50:16.368076,Slow response time observed for pod redis-pod.,WARNING
+2024-12-14 08:37:52.368078,Backup job completed successfully.,INFO
+2024-12-11 23:55:55.368081,Deployment deployment-2 failed to roll out successfully.,ERROR
+2024-12-16 11:57:58.368084,Replica count for deployment deployment-7 dropped below threshold.,WARNING
+2024-12-13 12:01:17.368087,DiskPressure condition detected on node node-4.,WARNING
+2024-12-11 00:37:42.368090,DiskPressure condition detected on node node-2.,WARNING
+2024-12-10 16:35:30.368092,Node node-4 is ready for scheduling.,INFO
+2024-12-13 17:52:34.368095,Replica count for deployment deployment-3 dropped below threshold.,WARNING
+2024-12-15 22:56:03.368098,Pod nginx-pod started successfully in namespace production.,INFO
+2024-12-16 01:33:37.368101,Deployment deployment-8 scaled to default replicas.,INFO
+2024-12-16 07:01:23.368104,Replica count for deployment deployment-1 dropped below threshold.,WARNING
+2024-12-14 04:10:33.368107,Deployment deployment-10 failed to roll out successfully.,ERROR
+2024-12-15 13:17:59.368110,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 00:33:01.368112,Slow response time observed for pod nginx-pod.,WARNING
+2024-12-11 10:05:22.368115,Failed to mount volume for pod frontend-pod.,ERROR
+2024-12-16 08:12:23.368118,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-11 10:52:36.368120,Node node-1 is ready for scheduling.,INFO
+2024-12-16 13:00:36.368123,Deployment deployment-6 scaled to default replicas.,INFO
+2024-12-14 07:17:48.368126,High memory usage detected in pod redis-pod.,WARNING
+2024-12-11 12:28:47.368129,Replica count for deployment deployment-1 dropped below threshold.,WARNING
+2024-12-11 12:08:28.368132,DiskPressure condition detected on node node-4.,WARNING
+2024-12-16 17:08:56.368134,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-12 10:04:51.368137,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-11 03:26:06.368139,Deployment deployment-9 scaled to production replicas.,INFO
+2024-12-12 00:43:19.368142,Node node-4 is ready for scheduling.,INFO
+2024-12-10 18:30:25.368145,Pod db-pod started successfully in namespace production.,INFO
+2024-12-16 14:42:14.368148,Node node-4 is ready for scheduling.,INFO
+2024-12-11 15:32:53.368151,Deployment deployment-4 failed to roll out successfully.,ERROR
+2024-12-12 14:31:09.368154,Pod frontend-pod started successfully in namespace default.,INFO
+2024-12-16 04:14:10.368157,Deployment deployment-4 failed to roll out successfully.,ERROR
+2024-12-11 04:42:39.368159,High memory usage detected in pod db-pod.,WARNING
+2024-12-13 04:23:37.368162,Deployment deployment-3 scaled to production replicas.,INFO
+2024-12-11 20:12:09.368165,Deployment deployment-6 scaled to production replicas.,INFO
+2024-12-11 11:25:36.368168,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-17 08:14:36.368170,Deployment deployment-4 scaled to monitoring replicas.,INFO
+2024-12-16 10:32:25.368173,Slow response time observed for pod frontend-pod.,WARNING
+2024-12-13 06:26:24.368176,Replica count for deployment deployment-1 dropped below threshold.,WARNING
+2024-12-14 08:23:57.368178,Slow response time observed for pod frontend-pod.,WARNING
+2024-12-12 22:19:55.368181,Deployment deployment-3 scaled to production replicas.,INFO
+2024-12-15 03:22:30.368184,Deployment deployment-9 scaled to kube-system replicas.,INFO
+2024-12-12 00:18:33.368187,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-17 10:01:18.368189,Deployment deployment-7 scaled to kube-system replicas.,INFO
+2024-12-14 15:41:26.368192,Slow response time observed for pod redis-pod.,WARNING
+2024-12-17 13:38:55.368195,Deployment deployment-3 scaled to production replicas.,INFO
+2024-12-17 03:14:01.368197,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-17 04:14:10.368202,Failed to mount volume for pod api-server.,ERROR
+2024-12-14 05:20:09.368204,High memory usage detected in pod nginx-pod.,WARNING
+2024-12-14 17:17:09.368207,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 09:04:38.368209,Backup job completed successfully.,INFO
+2024-12-15 15:01:37.368212,DiskPressure condition detected on node node-2.,WARNING
+2024-12-11 07:41:40.368215,Deployment deployment-6 scaled to monitoring replicas.,INFO
+2024-12-12 10:12:39.368217,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-15 08:29:09.368220,Slow response time observed for pod redis-pod.,WARNING
+2024-12-16 18:16:26.368223,Deployment deployment-9 failed to roll out successfully.,ERROR
+2024-12-11 20:54:18.368226,Node node-3 is ready for scheduling.,INFO
+2024-12-12 11:00:54.368228,Node node-5 is ready for scheduling.,INFO
+2024-12-15 02:50:50.368231,Replica count for deployment deployment-9 dropped below threshold.,WARNING
+2024-12-16 03:43:06.368234,Replica count for deployment deployment-8 dropped below threshold.,WARNING
+2024-12-13 03:42:53.368237,Replica count for deployment deployment-10 dropped below threshold.,WARNING
+2024-12-17 11:29:44.368240,Pod api-server started successfully in namespace default.,INFO
+2024-12-17 00:11:07.368242,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-11 03:00:38.368245,Failed to mount volume for pod frontend-pod.,ERROR
+2024-12-15 06:09:32.368248,Node node-5 is ready for scheduling.,INFO
+2024-12-13 09:11:10.368250,Pod frontend-pod started successfully in namespace kube-system.,INFO
+2024-12-16 23:02:20.368253,DiskPressure condition detected on node node-3.,WARNING
+2024-12-15 15:07:22.368256,DiskPressure condition detected on node node-4.,WARNING
+2024-12-17 07:04:49.368259,DiskPressure condition detected on node node-4.,WARNING
+2024-12-12 17:51:55.368262,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-15 20:43:17.368264,Node node-1 is ready for scheduling.,INFO
+2024-12-17 13:08:16.368267,Deployment deployment-6 failed to roll out successfully.,ERROR
+2024-12-14 20:30:57.368269,Backup job completed successfully.,INFO
+2024-12-14 02:07:29.368272,Failed to mount volume for pod api-server.,ERROR
+2024-12-17 06:43:58.368274,Pod api-server started successfully in namespace production.,INFO
+2024-12-13 05:39:14.368277,Deployment deployment-10 failed to roll out successfully.,ERROR
+2024-12-12 14:09:42.368281,Failed to mount volume for pod frontend-pod.,ERROR
+2024-12-11 12:33:40.368284,Slow response time observed for pod db-pod.,WARNING
+2024-12-11 17:58:37.368287,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-11 11:56:13.368290,Deployment deployment-2 failed to roll out successfully.,ERROR
+2024-12-16 23:01:56.368526,Failed to mount volume for pod db-pod.,ERROR
+2024-12-16 17:15:07.368529,Deployment deployment-4 scaled to production replicas.,INFO
+2024-12-11 10:47:42.368532,Failed to mount volume for pod api-server.,ERROR
+2024-12-16 08:02:23.368535,DiskPressure condition detected on node node-1.,WARNING
+2024-12-16 05:37:06.368538,DiskPressure condition detected on node node-5.,WARNING
+2024-12-16 01:34:04.368541,Deployment deployment-4 failed to roll out successfully.,ERROR
+2024-12-14 05:58:24.368543,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-15 13:22:59.368546,Deployment deployment-1 scaled to monitoring replicas.,INFO
+2024-12-14 11:06:31.368549,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-14 16:46:22.368551,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-17 00:32:43.368554,Slow response time observed for pod db-pod.,WARNING
+2024-12-14 12:57:23.368557,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-14 13:22:59.368559,Node node-5 is ready for scheduling.,INFO
+2024-12-10 19:20:21.368561,Backup job completed successfully.,INFO
+2024-12-13 12:10:56.368564,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 04:00:33.368566,Backup job completed successfully.,INFO
+2024-12-16 08:10:29.368569,Node node-3 is ready for scheduling.,INFO
+2024-12-11 13:17:03.368572,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-16 20:25:30.368575,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-17 05:58:29.368577,DiskPressure condition detected on node node-5.,WARNING
+2024-12-12 03:13:36.368580,Backup job completed successfully.,INFO
+2024-12-16 14:14:15.368582,DiskPressure condition detected on node node-2.,WARNING
+2024-12-10 21:04:53.368585,Slow response time observed for pod redis-pod.,WARNING
+2024-12-14 10:41:05.368587,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-13 21:44:11.368589,Backup job completed successfully.,INFO
+2024-12-16 20:04:46.368592,Deployment deployment-3 scaled to monitoring replicas.,INFO
+2024-12-14 12:41:38.368594,Failed to mount volume for pod db-pod.,ERROR
+2024-12-17 15:56:33.368597,Failed to mount volume for pod frontend-pod.,ERROR
+2024-12-14 08:16:44.368600,Replica count for deployment deployment-2 dropped below threshold.,WARNING
+2024-12-11 18:06:29.368602,Backup job completed successfully.,INFO
+2024-12-16 01:53:00.368605,Deployment deployment-2 scaled to kube-system replicas.,INFO
+2024-12-12 13:14:13.368607,Failed to mount volume for pod api-server.,ERROR
+2024-12-13 07:32:46.368610,Deployment deployment-2 scaled to kube-system replicas.,INFO
+2024-12-13 02:11:03.368613,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-16 04:31:40.368615,Slow response time observed for pod api-server.,WARNING
+2024-12-11 10:28:06.368618,Node node-1 is ready for scheduling.,INFO
+2024-12-11 08:50:12.368621,DiskPressure condition detected on node node-2.,WARNING
+2024-12-15 23:01:41.368623,High memory usage detected in pod nginx-pod.,WARNING
+2024-12-12 06:11:08.368626,Deployment deployment-1 failed to roll out successfully.,ERROR
+2024-12-12 16:25:16.368629,Node node-4 is ready for scheduling.,INFO
+2024-12-14 02:46:22.368631,Backup job completed successfully.,INFO
+2024-12-11 15:56:54.368633,Slow response time observed for pod redis-pod.,WARNING
+2024-12-11 10:43:49.368635,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-11 00:11:55.368638,DiskPressure condition detected on node node-3.,WARNING
+2024-12-15 12:42:54.368641,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 17:15:54.368646,DiskPressure condition detected on node node-1.,WARNING
+2024-12-12 05:30:22.368648,Pod api-server started successfully in namespace monitoring.,INFO
+2024-12-17 01:26:50.368650,Backup job completed successfully.,INFO
+2024-12-16 09:08:48.368653,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-11 08:40:34.368655,Slow response time observed for pod redis-pod.,WARNING
+2024-12-14 00:09:30.368657,Backup job completed successfully.,INFO
+2024-12-17 09:51:31.368660,Node node-2 is NotReady for scheduling pods.,ERROR
+2024-12-14 12:59:14.368663,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-13 19:28:03.368665,Failed to mount volume for pod frontend-pod.,ERROR
+2024-12-11 22:57:07.368668,High memory usage detected in pod redis-pod.,WARNING
+2024-12-11 15:38:44.368670,Backup job completed successfully.,INFO
+2024-12-15 04:32:35.368672,Deployment deployment-3 scaled to production replicas.,INFO
+2024-12-15 22:52:28.368675,Node node-3 is ready for scheduling.,INFO
+2024-12-15 16:24:08.368678,Deployment deployment-2 scaled to monitoring replicas.,INFO
+2024-12-13 13:40:29.368681,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-11 23:44:01.368683,Deployment deployment-2 scaled to default replicas.,INFO
+2024-12-12 22:41:40.368686,Deployment deployment-10 scaled to monitoring replicas.,INFO
+2024-12-15 11:40:25.368688,Backup job completed successfully.,INFO
+2024-12-13 20:17:45.368691,Node node-5 is ready for scheduling.,INFO
+2024-12-15 22:16:20.368693,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-15 07:06:41.368695,Backup job completed successfully.,INFO
+2024-12-16 12:14:33.368698,Pod nginx-pod started successfully in namespace kube-system.,INFO
+2024-12-16 20:40:25.368700,Deployment deployment-6 failed to roll out successfully.,ERROR
+2024-12-16 07:13:01.368703,Deployment deployment-6 scaled to default replicas.,INFO
+2024-12-17 13:42:47.368706,High memory usage detected in pod redis-pod.,WARNING
+2024-12-14 00:17:29.368708,Slow response time observed for pod api-server.,WARNING
+2024-12-13 21:38:42.368711,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-13 13:22:56.368714,Slow response time observed for pod frontend-pod.,WARNING
+2024-12-12 23:49:05.368716,Node node-5 is ready for scheduling.,INFO
+2024-12-12 08:59:40.368719,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 15:47:04.368722,Replica count for deployment deployment-7 dropped below threshold.,WARNING
+2024-12-12 15:05:15.368725,Node node-2 is ready for scheduling.,INFO
+2024-12-10 21:55:13.368727,High memory usage detected in pod api-server.,WARNING
+2024-12-15 02:53:17.368730,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-12 13:39:42.368732,Backup job completed successfully.,INFO
+2024-12-16 20:15:04.368734,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-11 05:48:20.368737,Pod frontend-pod started successfully in namespace monitoring.,INFO
+2024-12-16 01:09:21.368740,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-15 23:22:35.368742,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-15 03:37:49.368745,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-12 10:24:41.368748,Replica count for deployment deployment-3 dropped below threshold.,WARNING
+2024-12-13 16:03:30.368755,DiskPressure condition detected on node node-4.,WARNING
+2024-12-11 00:16:25.368759,Node node-1 is ready for scheduling.,INFO
+2024-12-12 21:11:26.368760,Backup job completed successfully.,INFO
+2024-12-14 17:21:28.368763,Node node-2 is ready for scheduling.,INFO
+2024-12-14 05:34:29.368766,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 14:43:40.368769,Pod frontend-pod started successfully in namespace monitoring.,INFO
+2024-12-16 18:37:50.368772,Failed to mount volume for pod db-pod.,ERROR
+2024-12-12 20:10:02.368774,Pod db-pod started successfully in namespace kube-system.,INFO
+2024-12-17 03:12:58.368777,Node node-3 is ready for scheduling.,INFO
+2024-12-15 01:59:53.368780,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-13 20:54:04.368782,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 22:44:33.368785,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-13 05:27:58.368788,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-12 17:52:09.368791,DiskPressure condition detected on node node-4.,WARNING
+2024-12-15 19:34:31.368793,DiskPressure condition detected on node node-5.,WARNING
+2024-12-11 03:49:33.368796,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 16:09:23.368798,Failed to mount volume for pod api-server.,ERROR
+2024-12-11 14:13:41.368801,High memory usage detected in pod nginx-pod.,WARNING
+2024-12-10 20:08:30.368803,Slow response time observed for pod api-server.,WARNING
+2024-12-12 18:51:54.368806,Deployment deployment-10 scaled to default replicas.,INFO
+2024-12-15 12:35:43.368809,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-15 00:23:51.368811,Pod frontend-pod started successfully in namespace kube-system.,INFO
+2024-12-10 21:32:36.368813,Backup job completed successfully.,INFO
+2024-12-14 00:44:38.368816,Deployment deployment-5 scaled to production replicas.,INFO
+2024-12-16 06:12:32.368818,Backup job completed successfully.,INFO
+2024-12-15 17:58:21.368821,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-17 00:15:19.368823,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-13 10:10:06.368826,Deployment deployment-9 failed to roll out successfully.,ERROR
+2024-12-15 12:14:39.368828,High memory usage detected in pod db-pod.,WARNING
+2024-12-11 02:58:06.368831,Node node-3 is ready for scheduling.,INFO
+2024-12-12 01:03:22.368834,Deployment deployment-6 scaled to production replicas.,INFO
+2024-12-17 08:51:33.368837,Slow response time observed for pod nginx-pod.,WARNING
+2024-12-14 09:59:17.368839,DiskPressure condition detected on node node-2.,WARNING
+2024-12-17 05:21:50.368842,Failed to mount volume for pod frontend-pod.,ERROR
+2024-12-10 17:38:50.368845,DiskPressure condition detected on node node-5.,WARNING
+2024-12-16 11:04:11.368847,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-11 20:30:21.368850,Deployment deployment-10 scaled to production replicas.,INFO
+2024-12-17 12:56:53.368853,Pod db-pod started successfully in namespace default.,INFO
+2024-12-14 03:30:10.368854,Backup job completed successfully.,INFO
+2024-12-12 01:23:36.368857,Failed to mount volume for pod api-server.,ERROR
+2024-12-11 14:40:15.368860,Replica count for deployment deployment-3 dropped below threshold.,WARNING
+2024-12-12 18:34:26.368862,Deployment deployment-10 scaled to monitoring replicas.,INFO
+2024-12-15 02:23:26.368864,Backup job completed successfully.,INFO
+2024-12-10 18:28:33.368869,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-17 08:02:05.368871,Backup job completed successfully.,INFO
+2024-12-15 20:57:36.368873,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 08:54:39.368876,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 10:52:31.368878,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 06:32:34.368880,Backup job completed successfully.,INFO
+2024-12-12 05:06:03.368882,High memory usage detected in pod db-pod.,WARNING
+2024-12-15 10:36:28.368885,Pod redis-pod started successfully in namespace monitoring.,INFO
+2024-12-16 15:58:29.368888,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-17 05:24:32.368890,Deployment deployment-3 failed to roll out successfully.,ERROR
+2024-12-11 18:39:48.368893,High memory usage detected in pod api-server.,WARNING
+2024-12-16 12:49:44.368896,Replica count for deployment deployment-2 dropped below threshold.,WARNING
+2024-12-13 13:29:53.368897,Backup job completed successfully.,INFO
+2024-12-16 23:52:55.368900,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-15 15:43:52.368903,Deployment deployment-3 scaled to default replicas.,INFO
+2024-12-13 10:00:30.368906,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-13 15:42:35.368908,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-17 00:39:26.368911,DiskPressure condition detected on node node-5.,WARNING
+2024-12-13 18:04:19.368914,Slow response time observed for pod frontend-pod.,WARNING
+2024-12-13 13:55:25.368916,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-11 10:36:16.368918,Backup job completed successfully.,INFO
+2024-12-15 05:57:07.368921,Pod api-server started successfully in namespace monitoring.,INFO
+2024-12-11 12:24:51.368924,DiskPressure condition detected on node node-3.,WARNING
+2024-12-17 06:05:35.368926,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 19:30:53.368929,Node node-1 is ready for scheduling.,INFO
+2024-12-12 18:25:45.368932,High memory usage detected in pod db-pod.,WARNING
+2024-12-10 19:51:34.368934,Replica count for deployment deployment-2 dropped below threshold.,WARNING
+2024-12-14 10:25:51.368937,Pod frontend-pod started successfully in namespace monitoring.,INFO
+2024-12-16 15:08:16.368939,Pod api-server started successfully in namespace default.,INFO
+2024-12-12 09:53:49.368942,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-14 22:49:04.368945,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 19:58:25.368948,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-12 00:35:54.368950,Deployment deployment-10 scaled to production replicas.,INFO
+2024-12-14 13:13:18.368953,Pod nginx-pod started successfully in namespace kube-system.,INFO
+2024-12-16 20:57:40.368956,High memory usage detected in pod api-server.,WARNING
+2024-12-13 17:33:24.368958,Slow response time observed for pod redis-pod.,WARNING
+2024-12-14 07:36:43.368961,Failed to mount volume for pod db-pod.,ERROR
+2024-12-16 23:17:11.368963,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 09:47:34.368966,Pod redis-pod started successfully in namespace production.,INFO
+2024-12-11 20:47:05.368968,Deployment deployment-9 scaled to monitoring replicas.,INFO
+2024-12-10 23:51:12.368971,Failed to mount volume for pod api-server.,ERROR
+2024-12-14 02:30:06.368974,Pod api-server started successfully in namespace monitoring.,INFO
+2024-12-14 15:27:53.368978,Failed to mount volume for pod db-pod.,ERROR
+2024-12-11 20:14:12.368981,Replica count for deployment deployment-10 dropped below threshold.,WARNING
+2024-12-11 01:04:50.368984,Node node-3 is ready for scheduling.,INFO
+2024-12-14 22:38:30.368986,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 12:55:25.368989,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-15 05:55:38.368991,High memory usage detected in pod api-server.,WARNING
+2024-12-13 03:51:08.368994,Deployment deployment-10 scaled to default replicas.,INFO
+2024-12-15 16:04:31.368997,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-17 01:55:52.369000,Deployment deployment-8 failed to roll out successfully.,ERROR
+2024-12-12 16:18:05.369003,Replica count for deployment deployment-2 dropped below threshold.,WARNING
+2024-12-15 03:14:10.369005,Failed to mount volume for pod frontend-pod.,ERROR
+2024-12-12 14:14:29.369008,High memory usage detected in pod redis-pod.,WARNING
+2024-12-11 18:08:52.369010,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-13 04:57:45.369013,DiskPressure condition detected on node node-4.,WARNING
+2024-12-17 15:38:42.369016,Slow response time observed for pod nginx-pod.,WARNING
+2024-12-14 10:48:29.369018,Backup job completed successfully.,INFO
+2024-12-16 08:44:08.369021,DiskPressure condition detected on node node-5.,WARNING
+2024-12-13 16:22:30.369023,Slow response time observed for pod nginx-pod.,WARNING
+2024-12-12 15:36:16.369026,Deployment deployment-2 scaled to production replicas.,INFO
+2024-12-16 21:25:51.369029,Node node-5 is ready for scheduling.,INFO
+2024-12-14 16:16:17.369032,High memory usage detected in pod nginx-pod.,WARNING
+2024-12-17 00:01:22.369034,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-13 21:18:37.369036,Backup job completed successfully.,INFO
+2024-12-14 08:59:15.369039,Deployment deployment-5 scaled to monitoring replicas.,INFO
+2024-12-17 04:09:35.369042,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-15 07:08:05.369044,Replica count for deployment deployment-2 dropped below threshold.,WARNING
+2024-12-14 03:19:18.369047,DiskPressure condition detected on node node-4.,WARNING
+2024-12-12 08:44:04.369050,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-13 18:04:52.369052,Backup job completed successfully.,INFO
+2024-12-16 15:04:12.369054,Replica count for deployment deployment-2 dropped below threshold.,WARNING
+2024-12-16 15:55:22.369057,Deployment deployment-8 scaled to default replicas.,INFO
+2024-12-16 03:42:54.369060,Deployment deployment-9 failed to roll out successfully.,ERROR
+2024-12-13 14:22:36.369064,Slow response time observed for pod frontend-pod.,WARNING
+2024-12-10 21:20:33.369067,Pod db-pod started successfully in namespace kube-system.,INFO
+2024-12-13 04:44:13.369069,Node node-4 is ready for scheduling.,INFO
+2024-12-10 16:56:43.369072,Node node-2 is NotReady for scheduling pods.,ERROR
+2024-12-12 21:33:33.369075,DiskPressure condition detected on node node-4.,WARNING
+2024-12-17 04:21:59.369078,Node node-1 is ready for scheduling.,INFO
+2024-12-16 01:33:44.369081,Node node-5 is ready for scheduling.,INFO
+2024-12-11 19:51:53.369083,Pod db-pod started successfully in namespace monitoring.,INFO
+2024-12-14 22:26:11.369086,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-10 23:19:02.369089,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-17 15:59:23.369091,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-10 23:44:04.369094,Pod redis-pod started successfully in namespace default.,INFO
+2024-12-16 00:44:19.369096,Pod redis-pod started successfully in namespace default.,INFO
+2024-12-13 13:20:15.369099,High memory usage detected in pod nginx-pod.,WARNING
+2024-12-11 22:34:08.369101,Deployment deployment-5 scaled to default replicas.,INFO
+2024-12-10 21:59:35.369104,Replica count for deployment deployment-6 dropped below threshold.,WARNING
+2024-12-15 19:03:16.369107,Replica count for deployment deployment-9 dropped below threshold.,WARNING
+2024-12-17 08:18:39.369110,Replica count for deployment deployment-3 dropped below threshold.,WARNING
+2024-12-11 00:30:12.369112,Failed to mount volume for pod db-pod.,ERROR
+2024-12-16 18:14:37.369115,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-12 06:16:10.369117,DiskPressure condition detected on node node-2.,WARNING
+2024-12-16 20:33:55.369120,Deployment deployment-8 failed to roll out successfully.,ERROR
+2024-12-15 08:15:37.369123,Node node-4 is ready for scheduling.,INFO
+2024-12-10 21:18:43.369126,Pod db-pod started successfully in namespace monitoring.,INFO
+2024-12-11 04:11:25.369128,DiskPressure condition detected on node node-4.,WARNING
+2024-12-14 03:21:49.369131,Deployment deployment-4 scaled to default replicas.,INFO
+2024-12-13 07:54:02.369134,Deployment deployment-3 failed to roll out successfully.,ERROR
+2024-12-16 14:48:47.369136,High memory usage detected in pod nginx-pod.,WARNING
+2024-12-15 20:30:35.369139,Slow response time observed for pod api-server.,WARNING
+2024-12-13 08:50:16.369141,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-13 18:31:03.369144,Slow response time observed for pod db-pod.,WARNING
+2024-12-11 14:13:52.369147,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-14 11:12:59.369149,Replica count for deployment deployment-8 dropped below threshold.,WARNING
+2024-12-13 16:50:06.369152,Failed to mount volume for pod frontend-pod.,ERROR
+2024-12-12 19:21:48.369155,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-14 03:03:01.369157,Pod db-pod started successfully in namespace production.,INFO
+2024-12-11 10:53:32.369160,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-12 07:54:21.369163,Deployment deployment-2 scaled to default replicas.,INFO
+2024-12-13 03:30:11.369165,Pod db-pod started successfully in namespace kube-system.,INFO
+2024-12-12 21:49:20.369168,Replica count for deployment deployment-5 dropped below threshold.,WARNING
+2024-12-15 12:53:45.369171,Replica count for deployment deployment-1 dropped below threshold.,WARNING
+2024-12-11 04:05:11.369174,Slow response time observed for pod redis-pod.,WARNING
+2024-12-16 00:53:01.369177,Replica count for deployment deployment-4 dropped below threshold.,WARNING
+2024-12-16 16:18:30.369179,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 15:42:54.369182,Deployment deployment-5 failed to roll out successfully.,ERROR
+2024-12-13 10:54:18.369185,Deployment deployment-6 scaled to monitoring replicas.,INFO
+2024-12-12 22:22:15.369187,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-13 02:15:10.369190,DiskPressure condition detected on node node-1.,WARNING
+2024-12-14 07:45:17.369193,Pod frontend-pod started successfully in namespace kube-system.,INFO
+2024-12-11 05:17:27.369195,DiskPressure condition detected on node node-5.,WARNING
+2024-12-16 17:14:39.369198,Deployment deployment-3 scaled to production replicas.,INFO
+2024-12-13 16:13:09.369200,Backup job completed successfully.,INFO
+2024-12-13 05:45:43.369204,Failed to mount volume for pod db-pod.,ERROR
+2024-12-15 17:45:46.369207,DiskPressure condition detected on node node-2.,WARNING
+2024-12-11 00:07:32.369210,Node node-2 is ready for scheduling.,INFO
+2024-12-16 02:19:45.369213,Deployment deployment-4 failed to roll out successfully.,ERROR
+2024-12-17 00:06:16.369216,Deployment deployment-7 failed to roll out successfully.,ERROR
+2024-12-11 03:17:38.369219,Deployment deployment-7 failed to roll out successfully.,ERROR
+2024-12-13 19:20:01.369221,Slow response time observed for pod nginx-pod.,WARNING
+2024-12-14 21:49:10.369224,Failed to mount volume for pod api-server.,ERROR
+2024-12-12 19:12:41.369227,Node node-2 is ready for scheduling.,INFO
+2024-12-10 18:24:01.369230,Deployment deployment-10 failed to roll out successfully.,ERROR
+2024-12-13 02:51:59.369232,Slow response time observed for pod redis-pod.,WARNING
+2024-12-12 16:54:04.369235,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-11 19:59:18.369237,Failed to mount volume for pod db-pod.,ERROR
+2024-12-17 16:16:18.369240,Replica count for deployment deployment-4 dropped below threshold.,WARNING
+2024-12-15 12:18:50.369242,Backup job completed successfully.,INFO
+2024-12-15 14:24:52.369245,Replica count for deployment deployment-9 dropped below threshold.,WARNING
+2024-12-15 12:45:50.369248,Replica count for deployment deployment-7 dropped below threshold.,WARNING
+2024-12-14 17:43:40.369250,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-11 15:13:58.369252,Backup job completed successfully.,INFO
+2024-12-13 16:09:06.369255,Failed to mount volume for pod api-server.,ERROR
+2024-12-12 21:03:57.369257,Slow response time observed for pod nginx-pod.,WARNING
+2024-12-12 20:14:54.369260,DiskPressure condition detected on node node-1.,WARNING
+2024-12-11 21:08:58.369263,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-17 02:14:57.369265,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-15 21:55:15.369268,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-13 16:17:28.369271,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-11 03:48:06.369273,Slow response time observed for pod db-pod.,WARNING
+2024-12-15 14:47:17.369275,Backup job completed successfully.,INFO
+2024-12-15 10:34:21.369277,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 20:08:52.369279,Backup job completed successfully.,INFO
+2024-12-16 17:48:52.369282,Deployment deployment-3 failed to roll out successfully.,ERROR
+2024-12-14 02:56:50.369285,DiskPressure condition detected on node node-2.,WARNING
+2024-12-14 05:31:59.369288,Node node-5 is ready for scheduling.,INFO
+2024-12-15 00:32:07.369290,Node node-5 is ready for scheduling.,INFO
+2024-12-13 23:14:01.369293,Pod nginx-pod started successfully in namespace production.,INFO
+2024-12-13 05:49:42.369295,Node node-4 is ready for scheduling.,INFO
+2024-12-13 04:14:32.369298,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-15 06:59:35.369301,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-12 02:03:29.369304,DiskPressure condition detected on node node-1.,WARNING
+2024-12-17 04:42:50.369306,Backup job completed successfully.,INFO
+2024-12-14 08:55:13.369308,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 23:28:26.369312,Node node-1 is ready for scheduling.,INFO
+2024-12-13 06:37:30.369315,Node node-5 is ready for scheduling.,INFO
+2024-12-14 07:33:18.369318,Slow response time observed for pod nginx-pod.,WARNING
+2024-12-16 08:41:58.369320,Node node-1 is ready for scheduling.,INFO
+2024-12-13 18:39:01.369323,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-15 05:37:22.369325,Deployment deployment-5 scaled to default replicas.,INFO
+2024-12-13 19:14:35.369328,Pod api-server started successfully in namespace production.,INFO
+2024-12-17 04:04:16.369331,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-14 10:43:18.369333,Deployment deployment-7 failed to roll out successfully.,ERROR
+2024-12-11 06:17:30.369336,High memory usage detected in pod api-server.,WARNING
+2024-12-15 03:56:48.369338,Slow response time observed for pod db-pod.,WARNING
+2024-12-13 17:47:39.369341,Replica count for deployment deployment-8 dropped below threshold.,WARNING
+2024-12-14 08:58:28.369344,Replica count for deployment deployment-8 dropped below threshold.,WARNING
+2024-12-10 23:10:37.369346,DiskPressure condition detected on node node-2.,WARNING
+2024-12-12 06:05:14.369349,DiskPressure condition detected on node node-1.,WARNING
+2024-12-11 00:01:20.369351,Slow response time observed for pod redis-pod.,WARNING
+2024-12-12 09:53:29.369354,Replica count for deployment deployment-8 dropped below threshold.,WARNING
+2024-12-13 09:44:09.369357,High memory usage detected in pod redis-pod.,WARNING
+2024-12-15 21:42:51.369359,Slow response time observed for pod api-server.,WARNING
+2024-12-16 19:32:09.369362,Slow response time observed for pod nginx-pod.,WARNING
+2024-12-16 21:31:21.369364,Node node-3 is ready for scheduling.,INFO
+2024-12-12 12:35:31.369367,High memory usage detected in pod db-pod.,WARNING
+2024-12-16 16:00:42.369369,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-14 18:57:03.369372,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 03:50:41.369374,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-16 01:06:25.369376,Backup job completed successfully.,INFO
+2024-12-13 17:31:31.369378,Failed to mount volume for pod db-pod.,ERROR
+2024-12-13 16:13:18.369381,Node node-1 is ready for scheduling.,INFO
+2024-12-11 11:49:06.369384,Deployment deployment-10 scaled to default replicas.,INFO
+2024-12-10 22:38:47.369386,Slow response time observed for pod db-pod.,WARNING
+2024-12-11 12:33:46.369388,Backup job completed successfully.,INFO
+2024-12-12 21:13:26.369391,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 13:15:36.369393,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-14 09:21:43.369396,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-13 05:33:16.369399,Node node-3 is ready for scheduling.,INFO
+2024-12-15 23:52:57.369401,Deployment deployment-10 scaled to monitoring replicas.,INFO
+2024-12-11 03:00:17.369404,Deployment deployment-2 scaled to production replicas.,INFO
+2024-12-14 05:29:00.369407,Node node-1 is ready for scheduling.,INFO
+2024-12-16 09:48:57.369409,Deployment deployment-7 scaled to production replicas.,INFO
+2024-12-10 21:50:38.369413,DiskPressure condition detected on node node-4.,WARNING
+2024-12-13 07:13:01.369416,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 07:16:48.369419,Deployment deployment-9 scaled to monitoring replicas.,INFO
+2024-12-12 10:40:11.369422,Deployment deployment-6 scaled to default replicas.,INFO
+2024-12-14 17:13:55.369424,Replica count for deployment deployment-7 dropped below threshold.,WARNING
+2024-12-14 18:55:25.369427,Slow response time observed for pod redis-pod.,WARNING
+2024-12-13 11:05:08.369430,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-11 12:11:49.369432,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 19:41:13.369435,Replica count for deployment deployment-4 dropped below threshold.,WARNING
+2024-12-16 01:50:50.369438,Slow response time observed for pod api-server.,WARNING
+2024-12-15 08:58:41.369440,Deployment deployment-8 scaled to monitoring replicas.,INFO
+2024-12-15 22:07:25.369443,Deployment deployment-4 failed to roll out successfully.,ERROR
+2024-12-15 09:00:20.369446,Replica count for deployment deployment-10 dropped below threshold.,WARNING
+2024-12-16 00:42:55.369449,Replica count for deployment deployment-2 dropped below threshold.,WARNING
+2024-12-10 21:37:33.369451,Node node-5 is ready for scheduling.,INFO
+2024-12-11 00:23:03.369454,High memory usage detected in pod nginx-pod.,WARNING
+2024-12-12 21:25:43.369457,Node node-3 is ready for scheduling.,INFO
+2024-12-14 19:03:33.369459,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 18:33:13.369461,Slow response time observed for pod redis-pod.,WARNING
+2024-12-12 16:41:21.369463,Backup job completed successfully.,INFO
+2024-12-16 05:32:45.369466,Replica count for deployment deployment-5 dropped below threshold.,WARNING
+2024-12-13 01:50:52.369469,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-11 18:28:16.369471,Node node-4 is ready for scheduling.,INFO
+2024-12-16 14:48:49.369474,Slow response time observed for pod redis-pod.,WARNING
+2024-12-16 10:44:02.369477,Deployment deployment-3 scaled to default replicas.,INFO
+2024-12-13 00:34:28.369480,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-13 02:54:44.369483,Node node-4 is ready for scheduling.,INFO
+2024-12-14 20:50:30.369486,Deployment deployment-4 failed to roll out successfully.,ERROR
+2024-12-15 19:07:13.369488,Backup job completed successfully.,INFO
+2024-12-16 19:52:04.369491,Replica count for deployment deployment-7 dropped below threshold.,WARNING
+2024-12-16 04:33:49.369494,Failed to mount volume for pod db-pod.,ERROR
+2024-12-11 01:13:16.369497,Pod db-pod started successfully in namespace default.,INFO
+2024-12-12 21:38:37.369500,Node node-4 is ready for scheduling.,INFO
+2024-12-11 00:31:28.369503,High memory usage detected in pod api-server.,WARNING
+2024-12-16 09:46:34.369506,Deployment deployment-3 failed to roll out successfully.,ERROR
+2024-12-15 16:19:21.369509,Deployment deployment-1 failed to roll out successfully.,ERROR
+2024-12-16 02:29:10.369512,Slow response time observed for pod nginx-pod.,WARNING
+2024-12-16 19:44:01.369515,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-15 11:13:07.369517,Slow response time observed for pod db-pod.,WARNING
+2024-12-12 15:11:20.369520,Pod api-server started successfully in namespace monitoring.,INFO
+2024-12-10 16:56:16.369523,Slow response time observed for pod db-pod.,WARNING
+2024-12-13 20:47:29.369526,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-17 11:55:18.369529,High memory usage detected in pod db-pod.,WARNING
+2024-12-15 05:09:18.369531,Deployment deployment-1 failed to roll out successfully.,ERROR
+2024-12-13 06:11:48.369535,Deployment deployment-5 failed to roll out successfully.,ERROR
+2024-12-10 19:26:39.369537,Backup job completed successfully.,INFO
+2024-12-12 08:53:19.369541,Failed to mount volume for pod frontend-pod.,ERROR
+2024-12-15 12:12:41.369544,Failed to mount volume for pod db-pod.,ERROR
+2024-12-13 17:01:58.369547,High memory usage detected in pod api-server.,WARNING
+2024-12-11 21:04:10.369549,Pod frontend-pod started successfully in namespace kube-system.,INFO
+2024-12-15 02:37:49.369552,Pod api-server started successfully in namespace default.,INFO
+2024-12-17 01:38:23.369555,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-11 20:22:26.369558,Node node-3 is ready for scheduling.,INFO
+2024-12-16 02:36:20.369560,Backup job completed successfully.,INFO
+2024-12-14 01:27:44.369564,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-12 11:10:52.369567,Deployment deployment-6 failed to roll out successfully.,ERROR
+2024-12-10 22:49:53.369570,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-16 11:48:30.369573,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-16 06:56:33.369576,Deployment deployment-2 scaled to kube-system replicas.,INFO
+2024-12-15 12:18:18.369579,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-11 20:01:52.369582,Replica count for deployment deployment-10 dropped below threshold.,WARNING
+2024-12-15 11:00:13.369585,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-15 10:52:01.369588,Deployment deployment-5 scaled to default replicas.,INFO
+2024-12-13 01:31:49.369591,Replica count for deployment deployment-9 dropped below threshold.,WARNING
+2024-12-16 05:30:14.369594,Replica count for deployment deployment-10 dropped below threshold.,WARNING
+2024-12-15 20:17:09.369596,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-17 15:11:10.369599,DiskPressure condition detected on node node-1.,WARNING
+2024-12-15 02:34:37.369602,Deployment deployment-1 failed to roll out successfully.,ERROR
+2024-12-12 14:53:20.369605,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-11 15:21:55.369608,Deployment deployment-3 scaled to production replicas.,INFO
+2024-12-10 19:59:04.369610,Backup job completed successfully.,INFO
+2024-12-11 10:49:39.369613,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-15 03:39:32.369617,Deployment deployment-8 scaled to kube-system replicas.,INFO
+2024-12-17 11:26:43.369620,DiskPressure condition detected on node node-1.,WARNING
+2024-12-15 00:18:11.369622,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 19:16:27.369626,Deployment deployment-6 failed to roll out successfully.,ERROR
+2024-12-17 14:14:02.369628,Backup job completed successfully.,INFO
+2024-12-15 23:17:33.369631,DiskPressure condition detected on node node-3.,WARNING
+2024-12-13 20:23:54.369634,Slow response time observed for pod db-pod.,WARNING
+2024-12-17 12:49:45.369637,Node node-1 is ready for scheduling.,INFO
+2024-12-15 06:37:24.369640,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-12 11:28:07.369643,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-11 23:20:49.369646,DiskPressure condition detected on node node-5.,WARNING
+2024-12-12 01:53:47.369648,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-17 04:27:18.369651,Backup job completed successfully.,INFO
+2024-12-11 02:21:17.369654,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-17 05:03:36.369657,Deployment deployment-10 failed to roll out successfully.,ERROR
+2024-12-17 12:28:36.369661,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-12 04:02:09.369664,Failed to mount volume for pod db-pod.,ERROR
+2024-12-12 22:59:59.369667,Deployment deployment-2 failed to roll out successfully.,ERROR
+2024-12-16 01:42:50.369671,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-12 04:58:08.369674,Deployment deployment-8 scaled to kube-system replicas.,INFO
+2024-12-13 00:33:05.369676,High memory usage detected in pod api-server.,WARNING
+2024-12-13 23:18:47.369678,Backup job completed successfully.,INFO
+2024-12-16 09:07:12.369680,Backup job completed successfully.,INFO
+2024-12-17 00:32:32.369683,High memory usage detected in pod db-pod.,WARNING
+2024-12-15 02:44:26.369686,Pod nginx-pod started successfully in namespace production.,INFO
+2024-12-13 19:46:58.369689,Node node-3 is ready for scheduling.,INFO
+2024-12-12 05:31:49.369691,Backup job completed successfully.,INFO
+2024-12-14 04:41:55.369694,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-13 03:11:55.369697,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-14 22:42:20.369700,DiskPressure condition detected on node node-3.,WARNING
+2024-12-16 13:59:26.369703,Replica count for deployment deployment-5 dropped below threshold.,WARNING
+2024-12-16 07:30:30.369706,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-14 21:26:52.369709,Deployment deployment-4 scaled to production replicas.,INFO
+2024-12-12 09:14:03.369711,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-11 12:55:09.369714,Replica count for deployment deployment-3 dropped below threshold.,WARNING
+2024-12-16 03:49:08.369717,Node node-2 is NotReady for scheduling pods.,ERROR
+2024-12-17 00:25:01.369720,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-13 05:21:49.369723,Slow response time observed for pod api-server.,WARNING
+2024-12-14 05:07:44.369726,Deployment deployment-9 failed to roll out successfully.,ERROR
+2024-12-16 20:05:11.369729,Deployment deployment-10 scaled to production replicas.,INFO
+2024-12-14 02:38:50.369732,High memory usage detected in pod db-pod.,WARNING
+2024-12-13 21:05:15.369734,Slow response time observed for pod redis-pod.,WARNING
+2024-12-11 15:58:26.369737,DiskPressure condition detected on node node-3.,WARNING
+2024-12-14 05:19:04.369740,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-11 20:21:42.369742,Backup job completed successfully.,INFO
+2024-12-16 05:01:21.369745,DiskPressure condition detected on node node-4.,WARNING
+2024-12-17 02:53:59.369748,Node node-2 is ready for scheduling.,INFO
+2024-12-15 10:20:59.369749,Backup job completed successfully.,INFO
+2024-12-14 06:12:40.369752,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-17 11:51:09.369755,Node node-1 is ready for scheduling.,INFO
+2024-12-11 15:07:47.369757,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-12 11:36:50.369760,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-13 05:31:33.369762,High memory usage detected in pod nginx-pod.,WARNING
+2024-12-15 13:10:04.369765,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 12:51:34.369767,Pod nginx-pod started successfully in namespace production.,INFO
+2024-12-12 18:49:58.369770,Deployment deployment-2 scaled to kube-system replicas.,INFO
+2024-12-16 00:43:34.369773,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-15 01:07:06.369775,Deployment deployment-10 failed to roll out successfully.,ERROR
+2024-12-14 18:54:03.369777,Backup job completed successfully.,INFO
+2024-12-17 12:31:15.369780,High memory usage detected in pod db-pod.,WARNING
+2024-12-10 18:15:02.369782,Deployment deployment-8 scaled to production replicas.,INFO
+2024-12-16 05:39:38.369784,Backup job completed successfully.,INFO
+2024-12-17 06:29:33.369787,Slow response time observed for pod frontend-pod.,WARNING
+2024-12-13 19:25:48.369789,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-15 23:00:06.369792,Deployment deployment-5 failed to roll out successfully.,ERROR
+2024-12-13 11:16:47.369795,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-10 22:02:25.369797,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-15 15:13:16.369800,Replica count for deployment deployment-4 dropped below threshold.,WARNING
+2024-12-15 23:03:19.369804,Failed to mount volume for pod api-server.,ERROR
+2024-12-15 07:24:05.369806,Backup job completed successfully.,INFO
+2024-12-15 15:25:12.369807,Backup job completed successfully.,INFO
+2024-12-15 22:30:55.369810,Deployment deployment-7 scaled to monitoring replicas.,INFO
+2024-12-10 19:08:49.369813,Replica count for deployment deployment-4 dropped below threshold.,WARNING
+2024-12-14 07:01:05.369815,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-10 18:18:42.369818,Deployment deployment-8 scaled to production replicas.,INFO
+2024-12-12 19:02:49.369820,Replica count for deployment deployment-3 dropped below threshold.,WARNING
+2024-12-12 06:16:49.369823,Slow response time observed for pod api-server.,WARNING
+2024-12-15 04:20:39.369825,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-11 07:02:03.369828,Slow response time observed for pod db-pod.,WARNING
+2024-12-15 02:18:06.369831,Failed to mount volume for pod api-server.,ERROR
+2024-12-15 15:35:57.369833,Pod frontend-pod started successfully in namespace kube-system.,INFO
+2024-12-16 22:03:49.369836,Pod db-pod started successfully in namespace default.,INFO
+2024-12-10 21:26:40.369838,DiskPressure condition detected on node node-2.,WARNING
+2024-12-11 09:30:13.369841,Slow response time observed for pod api-server.,WARNING
+2024-12-12 19:54:39.369843,Slow response time observed for pod api-server.,WARNING
+2024-12-14 05:12:54.369846,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 01:34:06.369848,Node node-1 is NotReady for scheduling pods.,ERROR
+2024-12-17 05:42:27.369851,Pod frontend-pod started successfully in namespace monitoring.,INFO
+2024-12-11 14:29:59.369853,Slow response time observed for pod api-server.,WARNING
+2024-12-16 00:20:18.369856,Failed to mount volume for pod frontend-pod.,ERROR
+2024-12-16 23:47:01.369858,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-11 08:23:10.369861,Node node-4 is NotReady for scheduling pods.,ERROR
+2024-12-12 07:49:38.369864,Deployment deployment-9 scaled to kube-system replicas.,INFO
+2024-12-10 23:10:20.369866,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-15 18:49:00.369869,High memory usage detected in pod redis-pod.,WARNING
+2024-12-14 14:54:48.369872,Node node-3 is ready for scheduling.,INFO
+2024-12-14 19:09:28.369874,Backup job completed successfully.,INFO
+2024-12-14 00:15:58.369876,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-17 00:09:26.369880,High memory usage detected in pod redis-pod.,WARNING
+2024-12-15 03:43:24.369882,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 09:32:19.369885,Deployment deployment-7 scaled to kube-system replicas.,INFO
+2024-12-15 01:53:52.369888,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-14 23:29:51.369890,High memory usage detected in pod db-pod.,WARNING
+2024-12-12 23:16:09.369893,Pod nginx-pod started successfully in namespace kube-system.,INFO
+2024-12-16 21:07:42.369895,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 18:52:53.369897,Failed to mount volume for pod db-pod.,ERROR
+2024-12-11 10:57:02.369900,Node node-2 is ready for scheduling.,INFO
+2024-12-17 08:07:45.369903,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 02:40:04.369905,Failed to mount volume for pod nginx-pod.,ERROR
+2024-12-17 02:48:21.369908,Slow response time observed for pod db-pod.,WARNING
+2024-12-11 10:26:41.369910,Node node-2 is NotReady for scheduling pods.,ERROR
+2024-12-13 15:02:16.369913,Deployment deployment-3 failed to roll out successfully.,ERROR
+2024-12-10 21:55:08.369915,High memory usage detected in pod db-pod.,WARNING
+2024-12-12 16:26:16.369918,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-10 23:48:14.369921,Deployment deployment-3 scaled to production replicas.,INFO
+2024-12-17 02:47:56.369923,Backup job completed successfully.,INFO
+2024-12-16 11:10:36.369925,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 06:49:42.369928,Pod nginx-pod started successfully in namespace default.,INFO
+2024-12-16 21:51:28.369930,Deployment deployment-9 scaled to kube-system replicas.,INFO
+2024-12-11 23:32:37.369933,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-13 04:01:54.369935,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 17:05:08.369938,DiskPressure condition detected on node node-4.,WARNING
+2024-12-17 15:01:51.369941,High memory usage detected in pod api-server.,WARNING
+2024-12-13 09:55:10.369943,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-13 01:10:46.369945,Backup job completed successfully.,INFO
+2024-12-14 22:21:29.369948,Deployment deployment-6 scaled to default replicas.,INFO
+2024-12-14 18:39:11.369950,DiskPressure condition detected on node node-1.,WARNING
+2024-12-14 04:53:06.369952,Backup job completed successfully.,INFO
+2024-12-13 11:19:05.369955,Node node-5 is NotReady for scheduling pods.,ERROR
+2024-12-14 13:37:37.369958,Deployment deployment-2 scaled to default replicas.,INFO
+2024-12-16 03:51:54.369960,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-16 00:21:29.369963,Pod redis-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 11:53:24.369965,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-15 15:45:44.369967,Failed to mount volume for pod redis-pod.,ERROR
+2024-12-15 05:22:41.369970,DiskPressure condition detected on node node-1.,WARNING
+2024-12-15 02:23:32.369974,DiskPressure condition detected on node node-4.,WARNING
+2024-12-14 09:35:40.369976,Deployment deployment-7 scaled to monitoring replicas.,INFO
+2024-12-11 21:48:56.369979,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-11 18:23:18.369982,Node node-3 is NotReady for scheduling pods.,ERROR
+2024-12-12 13:27:41.369984,Pod api-server crashed due to out of memory (OOMKilled).,ERROR
+2024-12-12 19:16:23.369987,High memory usage detected in pod redis-pod.,WARNING
+2024-12-13 06:28:14.369989,High memory usage detected in pod frontend-pod.,WARNING
+2024-12-12 23:45:57.369992,Slow response time observed for pod api-server.,WARNING
+2024-12-12 16:44:53.369994,Pod frontend-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-15 22:39:02.369997,Pod frontend-pod started successfully in namespace monitoring.,INFO
+2024-12-16 05:57:14.369999,Node node-5 is ready for scheduling.,INFO
+2024-12-15 18:55:09.370002,Slow response time observed for pod frontend-pod.,WARNING
+2024-12-11 02:33:10.370004,DiskPressure condition detected on node node-1.,WARNING
+2024-12-17 11:38:26.370006,Backup job completed successfully.,INFO
+2024-12-12 21:33:42.370009,Deployment deployment-2 scaled to default replicas.,INFO
+2024-12-12 10:17:19.370012,Replica count for deployment deployment-8 dropped below threshold.,WARNING
+2024-12-16 04:47:08.370014,Deployment deployment-7 scaled to default replicas.,INFO
+2024-12-15 18:00:49.370017,Failed to mount volume for pod api-server.,ERROR
+2024-12-16 04:27:36.370020,High memory usage detected in pod api-server.,WARNING
+2024-12-17 14:27:14.370022,Backup job completed successfully.,INFO
+2024-12-16 02:25:25.370024,Deployment deployment-7 scaled to default replicas.,INFO
+2024-12-12 00:05:17.370027,Deployment deployment-9 scaled to monitoring replicas.,INFO
+2024-12-12 05:40:23.370029,High memory usage detected in pod api-server.,WARNING
+2024-12-11 03:06:34.370031,Backup job completed successfully.,INFO
+2024-12-12 01:27:58.370034,Pod nginx-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-14 18:50:40.370037,Deployment deployment-8 scaled to kube-system replicas.,INFO
+2024-12-11 22:42:37.370039,Pod db-pod crashed due to out of memory (OOMKilled).,ERROR
+2024-12-17 11:22:39.370042,Deployment deployment-9 failed to roll out successfully.,ERROR
+2024-12-11 13:49:17.370045,Node node-1 is ready for scheduling.,INFO
+2024-12-17 04:47:44.370047,DiskPressure condition detected on node node-2.,WARNING
+2024-12-14 09:34:59.370050,Slow response time observed for pod api-server.,WARNING
+2024-12-16 16:34:24.370053,Node node-2 is NotReady for scheduling pods.,ERROR
+2024-12-15 14:20:55.370055,Replica count for deployment deployment-10 dropped below threshold.,WARNING
+2024-12-15 02:37:18.370058,Node node-1 is ready for scheduling.,INFO
+2024-12-11 08:07:01.370060,DiskPressure condition detected on node node-3.,WARNING
+2024-12-13 09:18:34.370063,High memory usage detected in pod api-server.,WARNING
+2024-12-12 15:30:41.370066,Slow response time observed for pod db-pod.,WARNING
+2024-12-11 18:32:44.370068,Node node-5 is ready for scheduling.,INFO
+2024-12-14 02:17:00.370071,Pod db-pod started successfully in namespace monitoring.,INFO
+2024-12-11 10:19:55.370073,Backup job completed successfully.,INFO
+2024-12-14 10:11:01.370075,High memory usage detected in pod nginx-pod.,WARNING
+2024-12-12 11:51:59.370078,Deployment deployment-5 failed to roll out successfully.,ERROR
+2024-12-11 10:43:00.370080,Replica count for deployment deployment-7 dropped below threshold.,WARNING
+2024-12-12 17:16:24.370083,Replica count for deployment deployment-1 dropped below threshold.,WARNING

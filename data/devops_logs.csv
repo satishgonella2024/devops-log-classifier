@@ -1,7 +1,10 @@
 text,label
-"Error: Failed to connect to the database at line 56.",ERROR
-"Warning: Disk usage has exceeded 80%.",WARNING
-"Info: Jenkins pipeline completed successfully.",INFO
-"Error: Kubernetes pod crashloop detected in namespace prod.",ERROR
-"Warning: High memory usage on node01.",WARNING
+"Error: Kubernetes pod out of memory.",ERROR
+"Error: Failed to connect to the database.",ERROR
+"Error: Jenkins pipeline failed at step 3.",ERROR
+"Warning: Disk usage has reached 90%.",WARNING
+"Warning: High memory usage detected on node01.",WARNING
+"Warning: Slow response from database server.",WARNING
+"Info: Backup process completed successfully.",INFO
 "Info: Application deployment started.",INFO
+"Info: Jenkins pipeline completed successfully.",INFO
